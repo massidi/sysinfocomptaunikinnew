@@ -1,0 +1,3 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+Fsoldecaisse		TAR	217	nouvelle taille enregistrement : 217
+Fsoldecaisse	Codedevise	TAI-	2	la rubrique Codedevise a comme nouvelle taille 4 au lieu de 6

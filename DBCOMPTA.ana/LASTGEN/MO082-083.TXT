@@ -1,0 +1,4 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+Ffcommune	Codecommune	CLEU*		la rubrique Codecommune est maintenant une clé
+Ffcategorie	CodeCatego	CLEU*		la rubrique CodeCatego est maintenant une clé
+Ffprovince	CodeProv	CLEU*		la rubrique CodeProv est maintenant une clé

@@ -1,0 +1,2 @@
+//MO162-163.TXT ANA00162 TO ANA00163
+FbilanOhadaRevise		FCNX+	Connexion au serveur 127.0.0.1, base BDCOMPTAUNIKIN	

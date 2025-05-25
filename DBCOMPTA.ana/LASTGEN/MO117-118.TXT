@@ -1,0 +1,3 @@
+//MO117-118.TXT ANA00117 TO ANA00118
+Factivite		TAR	330	nouvelle taille enregistrement : 330
+Factivite	libcommunaute	RUB+		libcommunaute est une nouvelle rubrique

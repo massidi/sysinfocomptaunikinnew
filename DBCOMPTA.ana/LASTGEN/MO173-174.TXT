@@ -1,0 +1,4 @@
+//MO173-174.TXT ANA00173 TO ANA00174
+Fbiblio		TAR	580	nouvelle taille enregistrement : 580
+Fbiblio	CFDeb	CNW	Chaîne$Entier non signé sur 4 octets	la rubrique CFDeb a pour nouveau type Chaîne
+Fbiblio	CFCred	CNW	Chaîne$Entier sur 4 octets	la rubrique CFCred a pour nouveau type Chaîne

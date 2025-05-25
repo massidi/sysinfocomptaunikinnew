@@ -1,0 +1,3 @@
+//MO165-166.TXT ANA00165 TO ANA00166
+FTableaufluxtresorerie		NFI		nouveau fichier
+FTableaufluxtresorerie		FRN		

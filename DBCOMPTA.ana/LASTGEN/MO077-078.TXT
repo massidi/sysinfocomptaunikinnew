@@ -1,0 +1,3 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+Fmvtcaisse		TAR	423	nouvelle taille enregistrement : 423
+Fmvtcaisse	Numboncaisse	RUB+		Numboncaisse est une nouvelle rubrique

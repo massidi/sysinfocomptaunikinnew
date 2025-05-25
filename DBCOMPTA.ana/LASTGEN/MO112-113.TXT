@@ -1,0 +1,4 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+Ftresorerie		TAR	97	nouvelle taille enregistrement : 97
+Ftresorerie	SoldeCDF	RUB+		SoldeCDF est une nouvelle rubrique
+Ftresorerie	SoldeUSD	RUB+		SoldeUSD est une nouvelle rubrique

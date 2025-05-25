@@ -1,0 +1,3 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+Ffselectjournal		TAR	144	nouvelle taille enregistrement : 144
+Ffselectjournal	Comptegeneral	RUB+		Comptegeneral est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+Fmvtcaissedevise		NFI		nouveau fichier
+Connexion au serveur 127.0.0.1, base BDCOMPTASACRE		CNX+		
+Fmvtcaissedevise		FRN		

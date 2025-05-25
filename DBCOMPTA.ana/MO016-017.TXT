@@ -1,0 +1,4 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+FJRN		TAR	238	nouvelle taille enregistrement : 238
+FJRN	Numsociete	RUB+		Numsociete est une nouvelle rubrique
+Fidentite	Numsociete	NNR	NUMSOCIETE5	ATTENTION : la rubrique NUMSOCIETE5 a pour nouveau nom Numsociete

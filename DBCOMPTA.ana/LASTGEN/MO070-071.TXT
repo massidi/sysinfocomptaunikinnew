@@ -1,0 +1,5 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+Fmvtcaisse		NFI		nouveau fichier
+Fsoldecaisse		NFI		nouveau fichier
+Fsoldecaisse		FRN		
+Fmvtcaisse		FRN		

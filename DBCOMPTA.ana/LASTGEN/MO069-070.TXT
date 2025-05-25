@@ -1,0 +1,3 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Fimputation		NFI		nouveau fichier
+Fimputation		FRN		

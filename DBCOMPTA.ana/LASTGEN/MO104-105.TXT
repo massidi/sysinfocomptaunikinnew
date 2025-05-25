@@ -1,0 +1,2 @@
+//MO104-105.TXT ANA00104 TO ANA00105
+Ffselectjournal	Comptegenerals	NNR	Comptegeneral	ATTENTION : la rubrique Comptegeneral a pour nouveau nom Comptegenerals

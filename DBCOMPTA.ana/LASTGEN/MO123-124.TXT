@@ -1,0 +1,4 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+Ftresorerie4		TAR	168	nouvelle taille enregistrement : 168
+Ftresorerie4	Libcompte	RUB+		Libcompte est une nouvelle rubrique
+Ftresorerie4	Montanttot	RUB+		Montanttot est une nouvelle rubrique

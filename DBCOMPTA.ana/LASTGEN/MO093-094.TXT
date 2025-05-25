@@ -1,0 +1,2 @@
+//MO093-094.TXT ANA00093 TO ANA00094
+Connexion au serveur Lucien, base DBSYSINFOCOMPTA		CNX		

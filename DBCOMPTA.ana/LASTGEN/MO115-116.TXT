@@ -1,0 +1,92 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+Fracine		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fracine		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fplancomptable		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fplancomptable		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FJRN		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FJRN		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FindiceImmo		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FindiceImmo		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fimmo		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fimmo		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FmvtCptes		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FmvtCptes		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FsoldeCre		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FsoldeCre		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fsolde		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fsolde		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fdevise		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fdevise		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcentre		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcentre		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fbiblio2		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fbiblio2		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fbiblio		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fbiblio		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fagent		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fagent		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fidentite		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fidentite		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcptaassocie		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcptaassocie		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffdirection		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffdirection		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffcommune		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffcommune		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffcategorie		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffcategorie		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fimputationbanques		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fimputationbanques		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fmvtbanques		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fmvtbanques		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fsoldebanques		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fsoldebanques		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fmvtcaisse		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fmvtcaisse		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fsoldecaisse		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fsoldecaisse		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fimputation		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fimputation		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Factivite		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Factivite		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fuser		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fuser		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FtypeJournal		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FtypeJournal		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ftiers		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ftiers		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ftaux		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ftaux		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fservice		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fservice		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FReporting		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FReporting		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ftresorerie		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ftresorerie		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fresorerie		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fresorerie		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcodecomptebilan		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcodecomptebilan		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcompteresultat		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcompteresultat		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcompte		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcompte		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FsoldeTiers		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FsoldeTiers		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Fcodebilan		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Fcodebilan		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffselectjournal		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffselectjournal		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FfEleve		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FfEleve		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+FfmouvementEleve		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+FfmouvementEleve		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffsection		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffsection		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffreligion		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffreligion		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffrecette		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffrecette		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Ffprovince		BASE		La base du fichier est passée de HyperFileSQL Classic à HyperFileSQL Client/Serveur
+Ffprovince		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
+Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN		CNX+		

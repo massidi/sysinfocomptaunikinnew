@@ -1,0 +1,4 @@
+//MO167-168.TXT ANA00167 TO ANA00168
+TProduitInv		NFI		nouveau fichier
+Connexion au serveur 127.0.0.1, base BDCOMPTAPHARMAGROS		CNX+		
+TProduitInv		FRN		

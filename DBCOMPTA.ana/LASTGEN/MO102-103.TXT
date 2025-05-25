@@ -1,0 +1,10 @@
+//MO102-103.TXT ANA00102 TO ANA00103
+Fsolde		TAR	331	nouvelle taille enregistrement : 331
+Fsolde	LibOperation	RUB+		LibOperation est une nouvelle rubrique
+Fsolde	TypecodeDB	RUB+		TypecodeDB est une nouvelle rubrique
+Fsolde	Taux1	RUB+		Taux1 est une nouvelle rubrique
+Fsolde	Taux2	RUB+		Taux2 est une nouvelle rubrique
+Fsolde	Taux3	RUB+		Taux3 est une nouvelle rubrique
+Fsolde	Codeautre	RUB+		Codeautre est une nouvelle rubrique
+Fsolde	Codemontant	RUB+		Codemontant est une nouvelle rubrique
+Fsolde	Numpiece	RUB+		Numpiece est une nouvelle rubrique

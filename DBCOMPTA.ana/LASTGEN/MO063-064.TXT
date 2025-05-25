@@ -1,0 +1,3 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+Ftaux		TAR	452	nouvelle taille enregistrement : 452
+Ftaux	LibAct	RUB+		LibAct est une nouvelle rubrique

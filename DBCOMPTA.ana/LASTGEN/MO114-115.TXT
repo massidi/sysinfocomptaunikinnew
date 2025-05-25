@@ -1,0 +1,4 @@
+//MO114-115.TXT ANA00114 TO ANA00115
+Ftresorerie		TAR	109	nouvelle taille enregistrement : 109
+Ftresorerie	MontantCDF	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique MontantCDF a pour nouveau type Réel sur 8 octets
+Ftresorerie	MontantUSD	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique MontantUSD a pour nouveau type Réel sur 8 octets

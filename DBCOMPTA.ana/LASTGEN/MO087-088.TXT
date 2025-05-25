@@ -1,0 +1,3 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+FJRN		TAR	254	nouvelle taille enregistrement : 254
+FJRN	Codedevise	RUB-		la rubrique Codedevise est supprimée

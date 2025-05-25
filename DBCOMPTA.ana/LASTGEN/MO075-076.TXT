@@ -1,0 +1,3 @@
+//MO075-076.TXT ANA00075 TO ANA00076
+Fsoldecaisse		TAR	223	nouvelle taille enregistrement : 223
+Fsoldecaisse	Devise	RUB+		Devise est une nouvelle rubrique

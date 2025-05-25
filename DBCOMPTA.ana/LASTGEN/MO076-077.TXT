@@ -1,0 +1,4 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+Fsoldecaisse		TAR	219	nouvelle taille enregistrement : 219
+Fsoldecaisse	Codedevise	TAI+	2	la rubrique Codedevise a comme nouvelle taille 6 au lieu de 4
+Fsoldecaisse	Devise	RUB-		la rubrique Devise est supprimée

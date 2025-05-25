@@ -1,0 +1,6 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+FsoldeCommunaute		NFI		nouveau fichier
+FsoldeActivite		NFI		nouveau fichier
+Connexion au serveur User-PC, base BDCOMPTASACRE		CNX+		
+FsoldeActivite		FRN		
+FsoldeCommunaute		FRN		
