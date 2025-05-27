@@ -1,4 +1,0 @@
-//MO128-129.TXT ANA00128 TO ANA00129
-Fcodecomptebilan		NFI		nouveau fichier
-Ftresorerie4		FIC-	Fcodecomptebilan	Fichier supprimé Fcodecomptebilan
-Fcodecomptebilan		FRN		

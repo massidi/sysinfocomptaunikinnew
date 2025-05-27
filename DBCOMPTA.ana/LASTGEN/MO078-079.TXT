@@ -1,5 +1,0 @@
-//MO078-079.TXT ANA00078 TO ANA00079
-Fmvtbanques		NFI		nouveau fichier
-Fsoldebanques		NFI		nouveau fichier
-Fsoldebanques		FRN		
-Fmvtbanques		FRN		

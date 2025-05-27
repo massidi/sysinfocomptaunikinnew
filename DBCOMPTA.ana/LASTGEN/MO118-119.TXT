@@ -1,3 +1,0 @@
-//MO118-119.TXT ANA00118 TO ANA00119
-FsoldeCommunaute		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	
-FsoldeActivite		FCNX+	Connexion au serveur Massidi-PC, base BDCOMPTAUNIKIN	

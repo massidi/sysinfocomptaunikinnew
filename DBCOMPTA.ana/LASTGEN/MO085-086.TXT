@@ -1,3 +1,0 @@
-//MO085-086.TXT ANA00085 TO ANA00086
-Ffselectjournal		NFI		nouveau fichier
-Ffselectjournal		FRN		

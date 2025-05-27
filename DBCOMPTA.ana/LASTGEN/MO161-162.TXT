@@ -1,4 +1,0 @@
-//MO161-162.TXT ANA00161 TO ANA00162
-FbilanOhadaRevise		NFI		nouveau fichier
-Connexion au serveur serveurquitus1, base BDQuitusCompta		CNX+		
-FbilanOhadaRevise		FRN		

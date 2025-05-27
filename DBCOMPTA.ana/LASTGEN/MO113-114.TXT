@@ -1,3 +1,0 @@
-//MO113-114.TXT ANA00113 TO ANA00114
-Ftresorerie		TAR	101	nouvelle taille enregistrement : 101
-Ftresorerie	Compte	RUB+		Compte est une nouvelle rubrique

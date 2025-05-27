@@ -1,3 +1,0 @@
-//MO073-074.TXT ANA00073 TO ANA00074
-Fsoldecaisse		TAR	219	nouvelle taille enregistrement : 219
-Fsoldecaisse	Periode	CNW	Décimal$Entier non signé sur 4 octets	la rubrique Periode a pour nouveau type Décimal

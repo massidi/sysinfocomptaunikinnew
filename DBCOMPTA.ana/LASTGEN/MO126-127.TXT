@@ -1,5 +1,0 @@
-//MO126-127.TXT ANA00126 TO ANA00127
-Fplancomptable		NFI		nouveau fichier
-Ftresorerie4		FIC-	Fplancomptable	Fichier supprimé Fplancomptable
-Connexion au serveur Massidi-Pc, base BDQuitusCompta		CNX+		
-Fplancomptable		FRN		

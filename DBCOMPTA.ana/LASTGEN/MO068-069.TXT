@@ -1,3 +1,0 @@
-//MO068-069.TXT ANA00068 TO ANA00069
-Factivite	Timemodif	RUB+		Timemodif est une nouvelle rubrique
-Factivite	Timemodif	RUB-		la rubrique Timemodif est supprimée

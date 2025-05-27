@@ -1,2 +1,0 @@
-//MO107-108.TXT ANA00107 TO ANA00108
-FsoldeTiers	IDFsoldetiers	NNR	IDFsoldecaisse	ATTENTION : la clé IDFsoldecaisse a pour nouveau nom IDFsoldetiers

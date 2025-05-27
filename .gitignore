@@ -76,3 +76,4 @@ SYSINFOPAIE.ana/*.old
 # Autres exclusions spécifiques
 SYSINFOPAIE.cpl
 Sauvegarde/
+LASTGEN/

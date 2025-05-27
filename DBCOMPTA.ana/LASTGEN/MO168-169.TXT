@@ -1,3 +1,0 @@
-//MO168-169.TXT ANA00168 TO ANA00169
-FProduit		NFI		nouveau fichier
-FProduit		FRN		

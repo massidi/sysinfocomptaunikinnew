@@ -1,3 +1,0 @@
-//MO122-123.TXT ANA00122 TO ANA00123
-Ftresorerie4		NFI		nouveau fichier
-Ftresorerie4		FRN		

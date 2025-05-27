@@ -1,3 +1,0 @@
-//MO103-104.TXT ANA00103 TO ANA00104
-Ffselectjournal		TAR	163	nouvelle taille enregistrement : 163
-Ffselectjournal	Timecreation	CNW	Chaîne$Heure (hhmm)	la rubrique Timecreation a pour nouveau type Chaîne

@@ -1,5 +1,0 @@
-//MO109-110.TXT ANA00109 TO ANA00110
-Fcodecomptebilan		NFI		nouveau fichier
-Fcompteresultat		NFI		nouveau fichier
-Fcompteresultat		FRN		
-Fcodecomptebilan		FRN		

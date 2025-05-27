@@ -1,3 +1,0 @@
-//MO170-171.TXT ANA00170 TO ANA00171
-TProduitInv		TAR	243	nouvelle taille enregistrement : 243
-TProduitInv	MonttotActu	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique MonttotActu a pour nouveau type Réel sur 8 octets

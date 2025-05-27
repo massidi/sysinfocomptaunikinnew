@@ -1,7 +1,0 @@
-//MO061-062.TXT ANA00061 TO ANA00062
-FmvtCptes		TAR	470	nouvelle taille enregistrement : 470
-FmvtCptes	Codeprovince	RUB+		Codeprovince est une nouvelle rubrique
-Fbiblio		TAR	556	nouvelle taille enregistrement : 556
-Fbiblio	Codeprovince	RUB+		Codeprovince est une nouvelle rubrique
-Fidentite		TAR	759	nouvelle taille enregistrement : 759
-Fidentite	Codeprovince	RUB+		Codeprovince est une nouvelle rubrique

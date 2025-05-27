@@ -1,5 +1,0 @@
-//MO092-093.TXT ANA00092 TO ANA00093
-Fcodebilan		TAR	118	nouvelle taille enregistrement : 118
-Fcodebilan	codebilan	RUB+		codebilan est une nouvelle clé
-Fcodebilan	libcodebilan	RUB+		libcodebilan est une nouvelle rubrique
-Fcodebilan	Codebilan1	RUB+		Codebilan1 est une nouvelle rubrique

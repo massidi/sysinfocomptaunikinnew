@@ -1,4 +1,0 @@
-//MO088-089.TXT ANA00088 TO ANA00089
-FJRN		TAR	255	nouvelle taille enregistrement : 255
-FJRN	Codedevise	NNR	TypeJ	ATTENTION : la rubrique TypeJ a pour nouveau nom Codedevise
-FJRN	Codedevise	CNW	Chaîne$Entier sur 4 octets	la rubrique Codedevise a pour nouveau type Chaîne

@@ -1,5 +1,0 @@
-//MO079-080.TXT ANA00079 TO ANA00080
-Fimputationbanques		NFI		nouveau fichier
-Fmvtbanques	IDFmvtbanques	NNR	IDFmvtcaisse	ATTENTION : la clé IDFmvtcaisse a pour nouveau nom IDFmvtbanques
-Fsoldebanques	IDFsoldebanques	NNR	IDFsoldecaisse	ATTENTION : la clé IDFsoldecaisse a pour nouveau nom IDFsoldebanques
-Fimputationbanques		FRN		

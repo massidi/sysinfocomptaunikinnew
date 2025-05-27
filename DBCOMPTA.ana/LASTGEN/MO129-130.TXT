@@ -1,4 +1,0 @@
-//MO129-130.TXT ANA00129 TO ANA00130
-Fcompteresultat		NFI		nouveau fichier
-Ftresorerie4		FIC-	Fcompteresultat	Fichier supprimé Fcompteresultat
-Fcompteresultat		FRN		

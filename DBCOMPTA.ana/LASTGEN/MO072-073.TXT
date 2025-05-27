@@ -1,2 +1,0 @@
-//MO072-073.TXT ANA00072 TO ANA00073
-Fsoldecaisse	Periode	CNW	Entier non signé sur 4 octets$Entier sur 4 octets	la rubrique Periode a pour nouveau type Entier non signé sur 4 octets

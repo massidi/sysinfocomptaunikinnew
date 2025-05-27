@@ -1,3 +1,0 @@
-//MO094-095.TXT ANA00094 TO ANA00095
-Connexion au serveur  Massidi-PC, base DBSYSINFOCOMPTA		CNX		
-Connexion au serveur Massidi-PC, base DBSYSINFOCOMPTA		CNX		

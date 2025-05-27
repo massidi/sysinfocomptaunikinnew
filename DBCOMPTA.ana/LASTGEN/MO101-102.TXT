@@ -1,3 +1,0 @@
-//MO101-102.TXT ANA00101 TO ANA00102
-Fidentite		TAR	797	nouvelle taille enregistrement : 797
-Fidentite	codetaux	RUB+		codetaux est une nouvelle rubrique

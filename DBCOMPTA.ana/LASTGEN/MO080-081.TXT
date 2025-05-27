@@ -1,2 +1,0 @@
-//MO080-081.TXT ANA00080 TO ANA00081
-Fimputationbanques	IDFimputationbanques	NNR	IDFimputation	ATTENTION : la clé IDFimputation a pour nouveau nom IDFimputationbanques

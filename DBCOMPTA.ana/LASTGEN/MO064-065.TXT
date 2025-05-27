@@ -1,3 +1,0 @@
-//MO064-065.TXT ANA00064 TO ANA00065
-Fidentite		TAR	795	nouvelle taille enregistrement : 795
-Fidentite	Responsable	RUB+		Responsable est une nouvelle rubrique

@@ -1,4 +1,0 @@
-//MO127-128.TXT ANA00127 TO ANA00128
-Frecompte		NFI		nouveau fichier
-Connexion au serveur Massidi-PC, base BDCOMPTASYSINFOCOM		CNX+		
-Frecompte		FRN		

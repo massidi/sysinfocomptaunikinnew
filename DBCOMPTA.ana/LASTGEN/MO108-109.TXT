@@ -1,3 +1,0 @@
-//MO108-109.TXT ANA00108 TO ANA00109
-Fcompte		NFI		nouveau fichier
-Fcompte		FRN		

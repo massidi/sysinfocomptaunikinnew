@@ -1,5 +1,0 @@
-//MO111-112.TXT ANA00111 TO ANA00112
-Ftresorerie		NFI		nouveau fichier
-Fresorerie		NFI		nouveau fichier
-Fresorerie		FRN		
-Ftresorerie		FRN		
